@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ĐỒ ÁN TỐT NGHIỆP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="head_1">Lịch phân công</string>
+    <string name="head_2">Danh sách thành viên hội đồng</string>
+    <string name="head_3">Nhóm phản biện</string>
+    <string name="head_4">Đề tài tham khảo</string>
+    <string name="head_5">Tài liệu tham khảo</string>
+    <string name="head_6">Nội quy đồ án</string>
+
+    <string name="time_1">08/09/2024</string>
+    <string name="time_2">15/09/2024</string>
+    <string name="time_3">22/09/2024</string>
+    <string name="time_4">27/09/2024</string>
+</resources>
